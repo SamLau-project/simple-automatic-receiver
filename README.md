@@ -1,2 +1,2 @@
 # simple-automatic-receiver
-The National Undergraduate Electronics Design Contest (NUEDC) is one of the largest and most influential student competitions in China. It is held every two years and aims to encourage innovation, teamwork, and practical engineering ability among undergraduate students. Participants work in teams to design, build, and test electronic systems within a limited time, covering areas such as analog and digital circuits, embedded systems, communication, and signal processing. The contest promotes hands-on experience, creativity, and problem-solving skills, and has become an important platform for cultivating future engineers in the field of electronics and information technology.
+2025全国大学生电子设计大赛高频通信类赛题
